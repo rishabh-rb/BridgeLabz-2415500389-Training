@@ -1,6 +1,4 @@
 # BridgeLabz-2415500389-Training
-
-
 ### Java Learning Log
 
 **August 11–13, 2025**
