@@ -35,4 +35,16 @@
 | **Nov 4, 2025**  | Day 29      | 🗂️ *Collections Framework*    | Implemented **ArrayList**, **HashSet**, **HashMap**, and **TreeMap**.                                                    |
 | **Nov 5, 2025**  | Day 30      | 🗄️ *JDBC with MySQL*          | Learned **JDBC architecture**; performed **CRUD operations** using **DriverManager**, **Connection**, and **ResultSet**. |
 
----
+##⚙️ Tech Stack & Tools Used
+
+| 🧰 **Category**                      | 💡 **Tools / Technologies**                                                   |
+| ------------------------------------ | ----------------------------------------------------------------------------- |
+| ☕ **Programming Language**           | Java (JDK 17)                                                                 |
+| 🧩 **IDE / Editor**                  | Eclipse IDE, IntelliJ IDEA, Visual Studio Code                                |
+| 🗄️ **Database**                     | MySQL                                                                         |
+| 🔌 **Database Connectivity**         | JDBC (Java Database Connectivity)                                             |
+| 🧰 **Version Control**               | Git, GitHub                                                                   |
+| 🧠 **Concepts Practiced**            | OOPs, Generics, Collections, Exception Handling, Interfaces, Lambda, Packages |
+| 🧾 **OS / Platform**                 | Windows / macOS                                                               |
+| 📦 **Build & Compile Tools**         | Java Compiler (javac), Git Bash, CMD / Terminal                               |
+| 💬 **Communication & Collaboration** | BridgeLabz Training Platform, GitHub Repositories                             |
