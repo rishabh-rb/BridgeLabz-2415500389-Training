@@ -35,7 +35,7 @@
 | **Nov 4, 2025**  | Day 29      | 🗂️ *Collections Framework*    | Implemented **ArrayList**, **HashSet**, **HashMap**, and **TreeMap**.                                                    |
 | **Nov 5, 2025**  | Day 30      | 🗄️ *JDBC with MySQL*          | Learned **JDBC architecture**; performed **CRUD operations** using **DriverManager**, **Connection**, and **ResultSet**. |
 
-##⚙️ Tech Stack & Tools Used
+## ⚙️ Tech Stack & Tools Used
 
 | 🧰 **Category**                      | 💡 **Tools / Technologies**                                                   |
 | ------------------------------------ | ----------------------------------------------------------------------------- |
